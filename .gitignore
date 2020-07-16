@@ -1,0 +1,26 @@
+.ipynb_checkpoints
+attention
+autoencoder
+batch-norm
+convolutional-neural-networks
+cycle-gan
+dcgan-svhn
+gan-mnist
+intro-neural-networks
+intro-to-pytorch
+keras
+recurrent-neural-networks
+sentiment-analysis-network
+sentiment-rnn
+style-transfer
+tensorflow
+transfer-learning
+weight-initialization
+word2vec-embeddings
+
+
+
+# projects
+project-dog-classification
+project-face-generation
+project-tv-script-generation
