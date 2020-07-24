@@ -16,10 +16,14 @@ tensorflow
 transfer-learning
 weight-initialization
 word2vec-embeddings
-
+requirements.txt
+LICENSE
 
 
 # projects
 project-dog-classification
 project-face-generation
 project-tv-script-generation
+
+#large files
+sentiment-analysis-network/reviews.txt
