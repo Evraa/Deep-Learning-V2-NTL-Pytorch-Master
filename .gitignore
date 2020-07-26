@@ -7,7 +7,8 @@ cycle-gan
 dcgan-svhn
 gan-mnist
 intro-neural-networks
-intro-to-pytorch
+# intro-to-pytorch
+intro-to-pytorch/assets
 keras
 recurrent-neural-networks
 sentiment-rnn
@@ -23,7 +24,7 @@ LICENSE
 # projects
 project-dog-classification
 project-face-generation
-project-tv-script-generation
+project-tv-script-generations
 
 #large files
 sentiment-analysis-network/reviews.txt
